@@ -37,6 +37,6 @@ Programming challenges for internship applicants - 1
 1. Fork repository นี้ไปยังบัญชี GitHub ของคุณ
 2. Clone repository ที่คุณ fork มา
 3. สร้างโฟลเดอร์ใหม่ใน `submissions` โดยใช้ชื่อ GitHub ของคุณ
-4. เขียนโปรแกรมแก้โจทย์ทั้ง 3 ข้อในโฟลเดอร์ที่สร้างขึ้นมาใหม่
+4. เขียนโปรแกรมแก้โจทย์ทั้ง 3 ข้อในโฟลเดอร์ที่สร้างขึ้นมาใหม่ โดยเลือกใช้ภาษา C# ,Java ,Python 1 ใน 3 ภาษานี้ 
 5. Commit และ push โค้ดของคุณไปยัง repository ที่คุณ fork มา
-6. ส่ง pull request มาที่ repository ต้นฉบับ
+6. เปิด Pubilc Repo ของคุณ และแจ้งกลับมายังบริษัท
