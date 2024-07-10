@@ -45,7 +45,7 @@ public class PangramChecker {
 
         if (isPangram) { // <---- ใช้เงื่อนไขตรวจสอบ pangram ถ้าตรงกัน จะ print ออกเป็น "The input string is a pangram."
             System.out.println("The input string is a pangram.");
-        } else { // <---- นอเงื่อนไขหรือไม่ตรงตามเงื่อนไขใดๆ print ออกเป็น "The input string is not a pangram."
+        } else { // <---- นอกเงื่อนไขหรือไม่ตรงตามเงื่อนไขใดๆ print ออกเป็น "The input string is not a pangram."
             System.out.println("The input string is not a pangram.");
         }
     }
